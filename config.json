@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false ,
   "vpn_enabled": true,
   "focus_enabled": false,
   "min_version_code": 1,
