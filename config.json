@@ -1,6 +1,6 @@
 {
   "enabled": false ,
-  "vpn_enabled": true,
+  "vpn_enabled": false,
   "focus_enabled": false,
   "min_version_code": 1,
   "message": "অ্যাপটি সাময়িকভাবে রক্ষণাবেক্ষণের জন্য বন্ধ আছে।",
