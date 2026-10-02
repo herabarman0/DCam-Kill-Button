@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "vpn_enabled": true,
-  "focus_enabled": true,
+  "focus_enabled": false,
   "min_version_code": 1,
   "message": "অ্যাপটি সাময়িকভাবে রক্ষণাবেক্ষণের জন্য বন্ধ আছে।",
   "update_message": "নতুন ভার্সন ইনস্টল করুন।"
