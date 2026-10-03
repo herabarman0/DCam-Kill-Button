@@ -1,6 +1,6 @@
 {
   "is_app_active": true,
-  "show_warning": true ,
+  "show_warning": false ,
   "warning_message": "জরুরি রক্ষণাবেক্ষণের জন্য অ্যাপটি আগামী ৫০ মিনিটের মধ্যে বন্ধ হয়ে যাবে।",
   "warning_duration_seconds": 3000,
   "message": "অ্যাপটি রক্ষণাবেক্ষণের কাজের জন্য বন্ধ রাখা হয়েছে। নতুন version পেতে Lucky Hera -র সাথে যোগাযোগ করুন"
